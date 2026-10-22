@@ -1,4 +1,4 @@
-Hi My name is João Pedro Rocha Vasconcelos
+Hi! My name is João Pedro Rocha Vasconcelos
 =====================================================================================================================================================
 
 Estudante de Engenharia de Software | Back-end com Python
