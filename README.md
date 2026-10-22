@@ -1,7 +1,7 @@
 Hi! My name is João Pedro Rocha Vasconcelos
 =====================================================================================================================================================
 
-Estudante de Engenharia de Software | Back-end com Python
+Software Engineering student | Back-end with Python
 ---------------------------------------------------------
 
 I’m a Software Engineering student working toward a career in back-end development. I work in warehouse operations and previously worked in administration, using ERP and WMS systems daily, which is where my interest in how business software is designed comes from. Right now I’m building my foundation in Python through small projects and courses, and I’m looking for a back-end internship where I can learn from a team.
